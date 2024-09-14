@@ -1,0 +1,9 @@
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.deps.json
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.dll
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\bin\Debug\netstandard2.0\WPF.Common.pdb
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.csprojAssemblyReference.cache
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.AssemblyInfoInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.AssemblyInfo.cs
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.csproj.CoreCompileInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.dll
+C:\Users\gautam\source\repos\WpfZain\WPF.Common\obj\Debug\netstandard2.0\WPF.Common.pdb

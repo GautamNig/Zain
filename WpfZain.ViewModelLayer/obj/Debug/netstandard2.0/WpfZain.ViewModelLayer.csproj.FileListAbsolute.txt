@@ -1,0 +1,4 @@
+C:\Users\gautam\source\repos\WpfZain\WpfZain.ViewModelLayer\obj\Debug\netstandard2.0\WpfZain.ViewModelLayer.AssemblyInfoInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain.ViewModelLayer\obj\Debug\netstandard2.0\WpfZain.ViewModelLayer.AssemblyInfo.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain.ViewModelLayer\obj\Debug\netstandard2.0\WpfZain.ViewModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain.ViewModelLayer\obj\Debug\netstandard2.0\WpfZain.ViewModelLayer.csprojAssemblyReference.cache

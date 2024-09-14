@@ -1,0 +1,7 @@
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\UserControls\UserMaintenanceListControl.baml
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\UserControls\UserMaintenanceDetailControl.g.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\UserControls\UserMaintenanceListControl.g.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\App.g.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\WpfZain_MarkupCompile.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\WpfZain_MarkupCompile.lref
+C:\Users\gautam\source\repos\WpfZain\WpfZain\obj\Debug\WpfZain.csprojAssemblyReference.cache

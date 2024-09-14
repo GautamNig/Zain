@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "31VPoajRuvanyqhG2DACur9YRkV3YBhxAm8hGByf4qtlfm0IlmCL80a9l5ODh18hP6NLiNUislM4V7KKOw1X7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gautam\\source\\repos\\WpfZain\\Common.Library\\Common.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gautam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gautam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

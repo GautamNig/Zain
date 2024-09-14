@@ -1,0 +1,4 @@
+C:\Users\gautam\source\repos\WpfZain\Common.Library\obj\Debug\netstandard2.0\Common.Library.AssemblyInfoInputs.cache
+C:\Users\gautam\source\repos\WpfZain\Common.Library\obj\Debug\netstandard2.0\Common.Library.AssemblyInfo.cs
+C:\Users\gautam\source\repos\WpfZain\Common.Library\obj\Debug\netstandard2.0\Common.Library.csproj.CoreCompileInputs.cache
+C:\Users\gautam\source\repos\WpfZain\Common.Library\obj\Debug\netstandard2.0\Common.Library.csprojAssemblyReference.cache

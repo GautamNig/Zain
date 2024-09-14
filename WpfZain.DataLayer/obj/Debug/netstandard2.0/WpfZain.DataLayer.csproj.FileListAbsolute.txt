@@ -1,0 +1,4 @@
+C:\Users\gautam\source\repos\WpfZain\WpfZain.DataLayer\obj\Debug\netstandard2.0\WpfZain.DataLayer.AssemblyInfoInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain.DataLayer\obj\Debug\netstandard2.0\WpfZain.DataLayer.AssemblyInfo.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain.DataLayer\obj\Debug\netstandard2.0\WpfZain.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain.DataLayer\obj\Debug\netstandard2.0\WpfZain.DataLayer.csprojAssemblyReference.cache

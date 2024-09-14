@@ -1,0 +1,3 @@
+C:\Users\gautam\source\repos\WpfZain\WpfZain.AppLayer\obj\Debug\netstandard2.0\WpfZain.AppLayer.AssemblyInfoInputs.cache
+C:\Users\gautam\source\repos\WpfZain\WpfZain.AppLayer\obj\Debug\netstandard2.0\WpfZain.AppLayer.AssemblyInfo.cs
+C:\Users\gautam\source\repos\WpfZain\WpfZain.AppLayer\obj\Debug\netstandard2.0\WpfZain.AppLayer.csproj.CoreCompileInputs.cache
